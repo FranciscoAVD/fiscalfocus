@@ -1,0 +1,2 @@
+export const MAX_INITIAL_VALUE_FILTER = 10000;
+export const MIN_INITIAL_VALUE_FILTER = 0;
